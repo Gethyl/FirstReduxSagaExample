@@ -1,0 +1,16 @@
+{
+	"dummy": {
+		"dummyArray": [{
+			"itemid": 1,
+			"name": "React"
+		}, {
+			"itemid": 2,
+			"name": "Facebook"
+		}, {
+			"itemid": 3,
+			"name": "Redux"
+		}],
+		"dummyName": "Gethyl",
+		"dummyOutput": "Fetch was successfull!! "
+	}
+}
